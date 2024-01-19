@@ -3,11 +3,11 @@
 int main() {
   char personName[100];
 
-  printf("Qual o seu nome ? \n");
+  printf("What is yout name ? ");
   scanf("%s", &personName);
   getchar();
 
-  printf("Ola, %s e um prazer te conhecer ! \n", personName);
+  printf("Hello, %s nice to meet you ! \n", personName);
   getchar();
   
   return 0;
