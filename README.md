@@ -7,3 +7,7 @@ and a collection of challenges that have contributed to my growth as a C
 coder. 
 Expect a mix of puzzles, problems, and projects 
 that will challenge and expand your understanding of C programming.
+
+##Basic Sequences Challenges
+
+<a href="#>Dummy</a>
