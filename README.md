@@ -10,5 +10,5 @@ that will challenge and expand your understanding of C programming.
 
 ## Basic Sequences Challenges
 
-[Hello World](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloWorld)
+[Hello World](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloWorld)<br>
 [Hello User](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloUser)
