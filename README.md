@@ -8,6 +8,7 @@ coder.
 Expect a mix of puzzles, problems, and projects 
 that will challenge and expand your understanding of C programming.
 
-##Basic Sequences Challenges
+## Basic Sequences Challenges
 
 [Hello World](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloWorld)
+[Hello User](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloUser)
