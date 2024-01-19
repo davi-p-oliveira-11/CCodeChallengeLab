@@ -7,11 +7,13 @@ int main() {
 
   printf("What is you name ? ");
   scanf("%s", &userName);
+  getchar();
 
-  printf("What is your salary ");
+  printf("What is your salary ? ");
   scanf("%f", &salary);
+  getchar();
 
-  printf("What month are we in ");
+  printf("What month are we in ? ");
   scanf("%s", &month);
   getchar();
 
