@@ -10,4 +10,4 @@ that will challenge and expand your understanding of C programming.
 
 ##Basic Sequences Challenges
 
-<a href="#>Dummy</a>
+[Hello World](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloWorld)
