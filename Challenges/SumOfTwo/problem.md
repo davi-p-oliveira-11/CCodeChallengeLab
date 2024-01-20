@@ -10,5 +10,5 @@ The sum of 8 and 5 is equal to 13.
 
 ## Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/SumOfTwo/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/SumOfTwo/Screenshot.JPG)
 
