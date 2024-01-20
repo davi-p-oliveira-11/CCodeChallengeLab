@@ -6,3 +6,5 @@ Create a program that reads a person's name and displays a welcome message to th
 
 ## Code Output:
 
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloUser/screenshot.JPG)
+
