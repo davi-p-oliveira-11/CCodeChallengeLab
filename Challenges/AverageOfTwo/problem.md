@@ -6,7 +6,7 @@ Grade 1: 4.5<br>
 Grade 2: 8.5<br>
 The average between 4.5 and 8.5 is equal to 6.5.
 
-[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloWorld/solution.c)
+[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/AverageOfTwo/solution.c)
 
 Code Output:
 
