@@ -14,3 +14,4 @@ that will challenge and expand your understanding of C programming.
 [Hello User](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/HelloUser)<br>
 [Employee Name](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/EmployeeName)<br>
 [Sum Of Two](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/SumOfTwo)<br>
+[Average of Two](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/AverageOfTwo)<br>
