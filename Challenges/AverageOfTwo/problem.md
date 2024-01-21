@@ -10,4 +10,4 @@ The average between 4.5 and 8.5 is equal to 6.5.
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloWorld/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/AverageOfTwo/screenshot.JPG)
