@@ -9,4 +9,4 @@ K = C + 273
 
 ## Code Output
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Celsius-toFandK/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Celsius-to-FandK/screenshot.JPG)
