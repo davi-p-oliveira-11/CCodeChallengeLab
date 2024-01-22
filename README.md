@@ -1,6 +1,5 @@
 # CCodeChallengeLab
 
-CCodeChallengeLab
 Welcome to C Code Challenge Lab repo 🚀 ! 
 This repository serves as a documentation of my learning process 
 and a collection of challenges that have contributed to my growth as a C 
