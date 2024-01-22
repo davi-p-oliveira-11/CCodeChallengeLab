@@ -20,5 +20,5 @@ that will challenge and expand your understanding of C programming.
 
 ## Basic Conditions
 
-[Can You Vote ?](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Can-you-vote)<br>
+[Can You Vote ?](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Can-you-Vote)<br>
 
