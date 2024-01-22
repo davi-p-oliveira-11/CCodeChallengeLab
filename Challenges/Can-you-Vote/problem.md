@@ -10,4 +10,4 @@ calculates their age, and then shows whether they can or cannot vote.
 # Case 1: 
  The user is older than 16 years old and can vote
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Can-you-Vote/case1.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Can-you-Vote/testcases/case1.JPG)
