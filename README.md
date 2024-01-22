@@ -16,5 +16,5 @@ that will challenge and expand your understanding of C programming.
 [Sum Of Two](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/SumOfTwo)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/AverageOfTwo)<br>
 [Predecessor and Successor](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Predecessor-Successor)<br>
-[Convert Ceslius to Fahrenheit and Calsius](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Celsiuis-to-FandK)<br>
+[Convert Celsius to Fahrenheit and Kelvin](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Celsiuis-to-FandK)<br>
 
