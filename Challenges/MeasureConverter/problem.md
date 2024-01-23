@@ -12,7 +12,7 @@ The distance of 185.72m corresponds to: <br>
 18572.0cm <br>
 185720.0mm <br>
 
-[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloUser/solution.c)
+[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/MeasureConverter/solution.c)
 
 ## Code Output:
 
