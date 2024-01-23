@@ -5,9 +5,8 @@ Create an algorithm that reads how much money a person has in their wallet<br>
 
 [Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/BRL-to-USD/solution.c)
 
-## Code Outputs
+## Code Output
 
-# Case 1: 
 The exchange rate from dollar to BrazIlian Real is 4,98 in 23/01/2024
 
 ![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/BRL-to-USD/screenshot.JPG)
