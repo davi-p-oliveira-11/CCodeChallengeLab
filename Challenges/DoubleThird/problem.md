@@ -6,7 +6,7 @@ Create an algorithm that reads a real number and displays on the screen its doub
     The double of 3.5 is 7.0 <br>
     One-third of 3.5 is 1.16666
 
-[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/AverageOfTwo/solution.c)
+[Click here to view the solution](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/DoubleThird/solution.c)
 
 Code Output:
 
