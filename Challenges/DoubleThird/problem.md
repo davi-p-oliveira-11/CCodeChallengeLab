@@ -10,4 +10,4 @@ Create an algorithm that reads a real number and displays on the screen its doub
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/AverageOfTwo/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/DoubleThird/screenshot.JPG)
