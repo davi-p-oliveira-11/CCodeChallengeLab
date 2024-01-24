@@ -15,6 +15,7 @@ int main() {
   sum = num1 + num2;
 
   printf("The sum of %d of %d is equal to: %d\n", num1, num2, sum);
+  printf("Press Enter to Exit ... ");
   getchar();
 
   return 0;
