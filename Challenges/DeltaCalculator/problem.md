@@ -7,4 +7,6 @@ from a quadratic equation and displays the value of Delta.
 
 Code Output:
 
+In this example a = 4, b = 8, c = 6
+
 ![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/DeltaCalculator/screenshot.png)
