@@ -6,5 +6,5 @@ Given the weight and height of the user,<br> print their body mass index (BMI), 
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Predecessor-Successor/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/SimpleBMI/screenshot.JPG)
 
