@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
 
   float grade1, grade2, average;
@@ -12,7 +14,8 @@ int main() {
 
   average = (grade1 + grade2) / 2;
 
-  printf("The average between %.1f and %.1f is equal to %.1f", grade1, grade2, average);
+  printf("The average between %.1f and %.1f is equal to %.1f \n", grade1, grade2, average);
+  printf("Press Enter to Exit ... ");
   getchar();
 
   return 0;
