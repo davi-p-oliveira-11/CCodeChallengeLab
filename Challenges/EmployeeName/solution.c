@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main() {
 
@@ -6,9 +7,15 @@ int main() {
   float salary;
 
   printf("What is you name ? ");
-  scanf("%s", &userName);
-  getchar();
+  fgets(userName, sizeof(userName), stdin);
 
+  // Remove the newline character from userName
+    int length = strlen(userName);
+
+    if (userName[length - 1] == '\n') {
+        userName[length - 1] = '\0';
+    }
+ 
   printf("What is your salary ? ");
   scanf("%f", &salary);
   getchar();
