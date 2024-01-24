@@ -25,6 +25,7 @@ int main() {
   getchar();
 
   printf("Employee %s has a salary of %.0f USD in %s", userName, salary, month);
+  printf("Press Enter to Exit ... ");
   getchar();
 
   return 0;
