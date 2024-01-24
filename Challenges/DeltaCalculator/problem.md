@@ -7,4 +7,4 @@ from a quadratic equation and displays the value of Delta.
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/SimpleBMI/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/DeltaCalculator/screenshot.png)
