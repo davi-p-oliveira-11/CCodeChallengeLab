@@ -14,12 +14,9 @@ int main() {
 
   affordableUsd = avaiableBRL / usdValue;
 
-  printf("You can buy a total of %.2f USD" , affordableUsd);
-  getchar();
-
+  printf("You can buy a total of %.2f USD \n" , affordableUsd);
   printf("Press Enter to Exit ... ");
   getchar();
-
 
   return 0;
 }
