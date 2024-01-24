@@ -11,9 +11,9 @@ int main() {
   successor = number + 1;
   predecessor = number - 1;
 
-  printf("The successor de %d is equal to %d", number, successor);
-  getchar();
-  printf("The predecessor de %d is equal to %d", number, predecessor);
+  printf("The successor de %d is equal to %d \n", number, successor);
+  printf("The predecessor de %d is equal to %d \n", number, predecessor);
+  printf("Press Enter to Exit ... ");
   getchar();
 
   return 0;
