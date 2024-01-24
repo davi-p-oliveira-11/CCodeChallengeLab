@@ -2,17 +2,18 @@
 
 int main () {
 
-  float celsius, fahrenheit, kelvin;
+  float centimeters, meters;
 
-  printf("Enter a temperature value in Celsius: ");
-  scanf("%f", &celsius);
+  printf("Enter a measure in centimeters: ");
+  scanf("%f", &centimeters);
   getchar();
 
-  fahrenheit = (9 * celsius + 160) / 5;
-  kelvin = celsius + 273;
+  meters = centimeters * 0.01;
 
-  printf("The temperatue %.1fC is equal to %.1fF (fahrenheit) and %.1fK in Kelvin", celsius, fahrenheit, kelvin);
+  printf("%.0f cm is equal to %.2f meters", centimeters, meters);
+  printf("Press Enter to Exit ... ");
   getchar();
+
 
   return 0;
 }
