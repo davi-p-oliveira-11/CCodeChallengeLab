@@ -20,6 +20,7 @@ that will challenge and expand your understanding of C programming.
 [Double and Third part](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/DoubleThird)<br>
 [BRL to USD converter](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/BRL-to-USD)<br>
 [Measure converter](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/MeasureConverter)<br>
+[Simple BMI Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/SimpleBMI)<br>
 [Rectangle Area Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/RectangleCalculator)<br>
 
 ## Basic Conditions
