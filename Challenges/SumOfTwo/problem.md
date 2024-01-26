@@ -1,4 +1,4 @@
-## Challenge
+## Sum of Two
 
 Develop an algorithm that reads two integers and displays their sum.<br>
 Example:<br>
