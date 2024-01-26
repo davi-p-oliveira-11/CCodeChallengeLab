@@ -1,4 +1,4 @@
-## Challenge
+## Predecessor Successor
 
  Create a program that reads an integer and displays its predecessor and succesor.<br>
  Example :<br>
