@@ -1,4 +1,4 @@
-## Challenge
+## Measure Converter
 
 Develop a program that reads a distance in meters and shows the
 corresponding values in other units.<br>
