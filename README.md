@@ -23,7 +23,7 @@ that will challenge and expand your understanding of C programming.
 [Simple BMI Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/SimpleBMI)<br>
 [Delta Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/DeltaCalculator)<br>
 [Rectangle Area Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/RectangleCalculator)<br>
-[Discount Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Discount-Calculator)<br>
+[Discount Calculator](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/tree/main/Challenges/Discount-Calulator)<br>
 
 
 ## Basic Conditions
