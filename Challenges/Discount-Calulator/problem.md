@@ -8,4 +8,4 @@ and displays its PROMOTIONAL PRICE with the discount earned.
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Discount-Calulator/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/Discount-Calulator/screenshot.png)
