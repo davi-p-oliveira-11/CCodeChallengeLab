@@ -1,4 +1,4 @@
-## Challenge
+## Double Third Calculator
 
 Create an algorithm that reads a real number and displays on the screen its double and one-third.<br>
     Example:<br>
