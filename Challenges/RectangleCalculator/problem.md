@@ -1,4 +1,4 @@
-## Challenge
+## Rectangle Area Calculator
 
 Create an algorithm that reads the width and height of a wall,<br> 
 calculates and displays the area to be painted,<br>
