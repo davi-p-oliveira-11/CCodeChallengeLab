@@ -1,4 +1,4 @@
-## Discount Calculator
+## Dynamic Discount Calculator
 
 Create a program that reads the price of a product,<br>
 the discount earned by the customer calculates,<br> 
