@@ -1,4 +1,4 @@
-## Problem
+## Show employee name
 
 Create a program that reads the name and salary of an employee, displaying a message at the end.
 Example:<br>
